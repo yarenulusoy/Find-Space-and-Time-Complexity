@@ -11,11 +11,6 @@
 #include<conio.h>
 #include <errno.h>
 
-/*
-*Pelin Ozdemir 210201102
-*Suheda Yaren Ulusoy 200201128
-*
-*/
 
 
 
